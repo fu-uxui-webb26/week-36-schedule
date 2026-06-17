@@ -11,8 +11,12 @@ Under veckan startar även kursens grupprojekt, där ni kommer att följa hela D
 
 ## Mål för veckan:
 
-1. 
-
+1. Förstå skillnaden mellan UX och UI.
+2. Förstå Design Thinking-processens olika steg.
+3. Planera och genomföra användarintervjuer.
+4. Samla in och analysera användardata.
+5. Skapa personas baserade på intervjuer.
+6. Formulera problembeskrivningar utifrån användarbehov.
 
 ## Resurser
 
